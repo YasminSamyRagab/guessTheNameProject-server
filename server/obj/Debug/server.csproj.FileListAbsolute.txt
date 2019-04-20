@@ -1,0 +1,100 @@
+H:\ITI\CSharp\project\NewBegining_1\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\NewBegining_1\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\NewBegining_1\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\NewBegining_1\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_2\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_3\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_4\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\EntityFramework.dll
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\EntityFramework.SqlServer.dll
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\EntityFramework.xml
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\bin\Debug\EntityFramework.SqlServer.xml
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\obj\Debug\server.csproj.CopyComplete
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_1\NewBegining_5\server\server\obj\Debug\server.pdb
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\server.exe.config
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\server.exe
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\server.pdb
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\EntityFramework.dll
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\EntityFramework.SqlServer.dll
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\EntityFramework.xml
+E:\iti\c#1\proj\NewBegining_5\server\server\bin\Debug\EntityFramework.SqlServer.xml
+E:\iti\c#1\proj\NewBegining_5\server\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\iti\c#1\proj\NewBegining_5\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\iti\c#1\proj\NewBegining_5\server\server\obj\Debug\server.csproj.CopyComplete
+E:\iti\c#1\proj\NewBegining_5\server\server\obj\Debug\server.exe
+E:\iti\c#1\proj\NewBegining_5\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\EntityFramework.dll
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\EntityFramework.SqlServer.dll
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\EntityFramework.xml
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\bin\Debug\EntityFramework.SqlServer.xml
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\obj\Debug\server.csproj.CopyComplete
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\NewBegining_5NS\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\EntityFramework.dll
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\EntityFramework.SqlServer.dll
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\EntityFramework.xml
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\bin\Debug\EntityFramework.SqlServer.xml
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\obj\Debug\server.csproj.CopyComplete
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\اخيرا هنخلص\NewBegining_5NS\server\server\obj\Debug\server.pdb
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\server.exe.config
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\server.exe
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\server.pdb
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\EntityFramework.dll
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\EntityFramework.SqlServer.dll
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\EntityFramework.xml
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\bin\Debug\EntityFramework.SqlServer.xml
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\obj\Debug\server.csprojAssemblyReference.cache
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\obj\Debug\server.csproj.CopyComplete
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\obj\Debug\server.exe
+H:\ITI\CSharp\project\خلصنا\NewBegining_5NS\server\server\obj\Debug\server.pdb
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\server.exe.config
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\server.exe
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\server.pdb
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\EntityFramework.dll
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\EntityFramework.SqlServer.dll
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\EntityFramework.xml
+E:\iti\c#1\proj\guessTheNameProject\server\server\bin\Debug\EntityFramework.SqlServer.xml
+E:\iti\c#1\proj\guessTheNameProject\server\server\obj\Debug\server.csprojAssemblyReference.cache
+E:\iti\c#1\proj\guessTheNameProject\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+E:\iti\c#1\proj\guessTheNameProject\server\server\obj\Debug\server.csproj.CopyComplete
+E:\iti\c#1\proj\guessTheNameProject\server\server\obj\Debug\server.exe
+E:\iti\c#1\proj\guessTheNameProject\server\server\obj\Debug\server.pdb
